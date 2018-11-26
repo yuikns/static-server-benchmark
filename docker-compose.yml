@@ -1,0 +1,19 @@
+version: '3'
+ 
+services:
+  hou:
+    image: yuikns/hou
+    ports:
+      - "19001:6789"
+    restart: always
+    volumes:
+      - ./data:/app:ro
+
+  nginx:
+    image: nginx
+    ports:
+      - "19002:80"
+    volumes:
+      - ./nginx-default.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./data:/usr/share/nginx/html:ro
+
