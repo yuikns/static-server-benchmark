@@ -1,0 +1,6 @@
+$ uname: Linux argcv.com 5.1.11-x86_64-linode127 #1 SMP PREEMPT Mon Jun 17 21:18:26 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+Memory Info:
+MemTotal:        8150648 kB
+CPU Info:
+model name	: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
+cpu count:	 4
