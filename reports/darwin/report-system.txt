@@ -1,0 +1,6 @@
+$ uname: Darwin algac 18.6.0 Darwin Kernel Version 18.6.0: Thu Apr 25 23:16:27 PDT 2019; root:xnu-4903.261.4~2/RELEASE_X86_64 x86_64
+Memory Info:
+hw.memsize: 17179869184
+CPU Info:
+machdep.cpu.brand_string: Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz
+hw.ncpu: 12

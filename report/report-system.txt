@@ -1,6 +1,0 @@
-$ uname: Darwin
-Memory Info:
-hw.memsize: 17179869184
-CPU Info:
-machdep.cpu.brand_string: Intel(R) Core(TM) i7-7920HQ CPU @ 3.10GHz
-hw.ncpu: 8
